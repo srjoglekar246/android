@@ -1,0 +1,1 @@
+Stores one message in memory. The password is set to be 7895. I have used just a numerical algo to detect entering of the real password.
